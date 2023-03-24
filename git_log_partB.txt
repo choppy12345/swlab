@@ -1,0 +1,101 @@
+commit 2bf593872c1fbf34227d6833567422bee05efea9
+Author: prashal <prashalsaldanha@gmail.com>
+Date:   Fri Mar 24 10:05:04 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..c636872
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 SDE
+\ No newline at end of file
+
+commit e9e58e0c70b9b2871c42561379b8f049c8f9ceb0
+Author: prashal <prashalsaldanha@gmail.com>
+Date:   Fri Mar 24 09:45:27 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 0a032bf..00cb462 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Prashal Saldanha CSE Canara Restaurant Tenet
+\ No newline at end of file
++Prashal Saldanha CSE Canara Restaurant Tenet
++Blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index c636872..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 SDE
+\ No newline at end of file
+
+commit 888d0eea54c8a759ab999e64c3c65a3b91b82072
+Author: prashal <prashalsaldanha@gmail.com>
+Date:   Fri Mar 24 09:32:17 2023 +0530
+
+    Commiting another file with grad year and job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..c636872
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 SDE
+\ No newline at end of file
+
+commit 3aa102a6833dbbaca114ddf55aef716da33a57f2
+Author: prashal <prashalsaldanha@gmail.com>
+Date:   Fri Mar 24 08:40:40 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 5123bc6..0a032bf 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Prashal Saldanha CSE
+\ No newline at end of file
++Prashal Saldanha CSE Canara Restaurant Tenet
+\ No newline at end of file
+
+commit 84436a4b18c56c54b036ccbba059813b42689e15
+Author: prashal <prashalsaldanha@gmail.com>
+Date:   Fri Mar 24 08:35:08 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 700c82e..5123bc6 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Prashal Saldanha 27084
+\ No newline at end of file
++Prashal Saldanha CSE
+\ No newline at end of file
+
+commit b76d576b18b95a1e826010f31ba20c299cd7d59f
+Author: prashal <prashalsaldanha@gmail.com>
+Date:   Fri Mar 24 08:23:44 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..700c82e
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Prashal Saldanha 27084
+\ No newline at end of file
